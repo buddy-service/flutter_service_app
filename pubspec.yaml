@@ -1,0 +1,6 @@
+name: flutter_service_app
+version: 1.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
